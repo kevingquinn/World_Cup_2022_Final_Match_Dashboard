@@ -1,0 +1,7 @@
+#Establishing Global Variables
+
+FRANCE_COLOR = '#002654'
+ARGENTINA_COLOR = '#43A1D5'
+
+ARGENTINA_TEAM_ID = 779
+FRANCE_TEAM_ID = 771
